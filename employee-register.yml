@@ -1,2 +1,4 @@
+server:
+  port: 9001
 employee:
-  greeting:  "Welcome to employee portal (Dev)"
+  greeting: Welcome to Local Employee Register
