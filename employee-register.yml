@@ -2,3 +2,8 @@ server:
   port: 9001
 employee:
   greeting: Welcome to Local Employee Register
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/employee-register-db
+    username: admin
+    password: admin
